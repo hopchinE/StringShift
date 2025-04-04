@@ -4,7 +4,7 @@ This is a basic C# command line app which will accept a string and an integer va
 
 ## Prerequisites 
 
-In order to run this you should have atleasr .Net version 9 installed on your machine
+In order to run this you should have atleast .Net version 9 installed on your machine
 
 ## Building
 

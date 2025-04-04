@@ -20,6 +20,7 @@ class Program
             //print out shifted string
             Console.WriteLine($"The output string shifted by {input2} is {write}");
         }
+        Console.WriteLine("Press enter to exit");
+        Console.ReadLine();
     }
-
 }

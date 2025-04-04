@@ -1,0 +1,14 @@
+c:\source\Sharp\StringShift\StringShift\bin\Debug\net9.0\StringShift.exe
+c:\source\Sharp\StringShift\StringShift\bin\Debug\net9.0\StringShift.deps.json
+c:\source\Sharp\StringShift\StringShift\bin\Debug\net9.0\StringShift.runtimeconfig.json
+c:\source\Sharp\StringShift\StringShift\bin\Debug\net9.0\StringShift.dll
+c:\source\Sharp\StringShift\StringShift\bin\Debug\net9.0\StringShift.pdb
+c:\source\Sharp\StringShift\StringShift\obj\Debug\net9.0\StringShift.GeneratedMSBuildEditorConfig.editorconfig
+c:\source\Sharp\StringShift\StringShift\obj\Debug\net9.0\StringShift.AssemblyInfoInputs.cache
+c:\source\Sharp\StringShift\StringShift\obj\Debug\net9.0\StringShift.AssemblyInfo.cs
+c:\source\Sharp\StringShift\StringShift\obj\Debug\net9.0\StringShift.csproj.CoreCompileInputs.cache
+c:\source\Sharp\StringShift\StringShift\obj\Debug\net9.0\StringShift.dll
+c:\source\Sharp\StringShift\StringShift\obj\Debug\net9.0\refint\StringShift.dll
+c:\source\Sharp\StringShift\StringShift\obj\Debug\net9.0\StringShift.pdb
+c:\source\Sharp\StringShift\StringShift\obj\Debug\net9.0\StringShift.genruntimeconfig.cache
+c:\source\Sharp\StringShift\StringShift\obj\Debug\net9.0\ref\StringShift.dll

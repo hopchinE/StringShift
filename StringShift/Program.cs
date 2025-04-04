@@ -1,4 +1,6 @@
-﻿namespace StringShift;
+﻿using System;
+
+namespace StringShift;
 
 class Program
 {

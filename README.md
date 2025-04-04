@@ -13,3 +13,11 @@ To build the executable of this application you'll need to run the following com
 > dotnet publish .\StringShift\StringShift.csproj
 
 This will then build an exe file in a newly created directory located in .\StringShift\bin\Release\net9.0\win-x64\publish\ which can then be run either from the commandline or by double clicking the exe file
+
+## Run Tests
+
+To run the tests you'll need to execute the below command which also assumes you're running it from the project root directory
+
+> dotnet test StringShiftTest\StringShiftTest.csproj
+
+This command will give you the output for the included unit tests

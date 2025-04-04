@@ -50,4 +50,14 @@ public sealed class StringShiftTests
         Assert.AreEqual(output, false);
         Assert.AreEqual(outInt, 0);
     }
+    [TestMethod]
+    public void TestValidationFailureNumeric()
+    {
+        string? input = "abc123";
+        string? input2 = "1";
+        int outInt = 0;
+        bool output = StringShift.Functions.validate(input, input2, out outInt);
+        Assert.AreEqual(output, false);
+        Assert.AreEqual(outInt, 1);
+    }
 }

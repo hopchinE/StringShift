@@ -54,10 +54,14 @@ public class Functions
             valid = false;
             Console.WriteLine("The first input cannot be empty");
         }
-        else if(!input.All(x => char.IsLetter(x)))
+        else
         {
-            valid = false;
-            Console.WriteLine("The input string must only contain alphabet characters");
+            input = Regex.Replace(input, @"\s+", "");
+            if(!input.All(x => char.IsLetter(x)))
+            {
+                valid = false;
+                Console.WriteLine("The input string must only contain alphabet characters");
+            }
         }
         if(!int.TryParse(input2, out shift))
         {
